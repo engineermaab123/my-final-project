@@ -19,10 +19,10 @@ cmd write pip install opencv-python , dlib , numpy , face-recognition .
 4. The application will open.
 If the employee’s face is already registered, the system will recognize it and record the attendance.
 If the employee is new, the system will ask for the name and register the face in the database.
+Attendance will be marked automatically, and the system will update the attendance sheet.
 # Contributors :
 Maab Ahmed , Zainab Salah , Eba Abu Obaida .
 
 
 
 
-Attendance will be marked automatically, and the system will update the attendance sheet.
